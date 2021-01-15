@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "test"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
@@ -20,7 +20,7 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergioko
 ---
 
 What has inside?
-
+- 비공개 test
 - Gulp
 - BrowserSync
 - Stylus
